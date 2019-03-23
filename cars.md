@@ -20,3 +20,10 @@
 - Is there a specific stop sign for normal and self driving cars?
 - If a policemen stops you in self driving car, who will it fine?
 - How would you show the policement that it was the car's fault?
+- What is the best way for me to protect my car against hackers?
+- If my car is going to collide with a person of interest (ie: president of my country, movie star,
+etc.), will the algorithm choose that person over me?
+- I’m planning to do a roadtrip from Europe to China with my autonomous vehicle this summer,
+will my European car still be able to communicate with the Chinese infrastructure once I’m
+there?
+- Will the self-driving algorithm of a budget car be as safe and performant as a premium car?

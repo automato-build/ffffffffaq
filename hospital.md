@@ -1,14 +1,6 @@
-# 🏥HOSPITAL 
+# 🏥HOSPITAL
 
-- What is the percentange of smart things for a home to be considered Smart?
-- Is a dumb home full of smart things a smart home?
-- Do Smart homes makes my life easier?
-- If I get bored of the smartness of my smart home, can I actually switch it off?
-- Can I turn off smartness the same way I do with electricity?
-- Where is the switchboard of a Smart Home?
-- If my home gets too smart will it flip a safe switch?
-- How can I make my home forget about something?
-- Can I make my home forget about me? or someone that died?
-- Can I decide if my house should learn or teach me things?
-- If a crime happens in my smart home, would my home vouch for me if police start questioning it?
-- Would a smart home stop me from making dumb things?
+- As an elder, will I be cared more by a human nurse or a robot one?
+- For better diagnosis, should I take a human or a machine doctor?
+- I’m living in a complete paranoia and angst since we discovered through genetic testing that
+I might have a lung cancer in 20 years. What should I do?
