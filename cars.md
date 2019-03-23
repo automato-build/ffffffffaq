@@ -1,14 +1,22 @@
 # 🚗 CARS
 
-- What is the percentange of smart things for a home to be considered Smart?
-- Is a dumb home full of smart things a smart home?
-- Do Smart homes makes my life easier?
-- If I get bored of the smartness of my smart home, can I actually switch it off?
-- Can I turn off smartness the same way I do with electricity?
-- Where is the switchboard of a Smart Home?
-- If my home gets too smart will it flip a safe switch?
-- How can I make my home forget about something?
-- Can I make my home forget about me? or someone that died?
-- Can I decide if my house should learn or teach me things?
-- If a crime happens in my smart home, would my home vouch for me if police start questioning it?
-- Would a smart home stop me from making dumb things?
+- What if i don't trust my self driving car to go to ther right place?
+- If my car makes a wrong turn, what can I do?
+- If the car doesn’t have a steering wheel to control it, would I trust it more or less?
+- Do I need to pay for an extra steering will just in case?
+- Do I need a licence for a self driving car?
+- How old do I need to be to change the car direction?
+- Can a 3 year old be in the car by himself?
+- What can a 3 year old or a 5 or a 10 year old do in a self driving car?
+- What is the age of self driving?
+- Would a car trained in China act the same way when it crosses border?
+- How would my Italian car decide to act in Germany?
+- Are the distance of automatic parking the same all around the world?
+- Would an italian and a german car have to discuss about the right distance to park one from an other?
+- Who decides then what is a good parking? The Germans or the Italians?
+- How do you insult a self driving car if it doesn't let you pass?
+- If no one is driving who will you blame for an accident?
+- How would a policemen stop a self driving car?
+- Is there a specific stop sign for normal and self driving cars?
+- If a policemen stops you in self driving car, who will it fine?
+- How would you show the policement that it was the car's fault?
