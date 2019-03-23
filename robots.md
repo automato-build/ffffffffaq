@@ -1,4 +1,4 @@
-# 🤖ROBOTS
+# 🤖 ROBOTS
 
 - Is it morally right to bully my family’s robot?
 - When I kick him, he shows me sadness yet I know he doesn’t feel any sadness, what should i do?

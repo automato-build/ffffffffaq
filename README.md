@@ -4,6 +4,15 @@
 
 This is an open an growing list of **future frequently asked questions, questions that are not asked yet, but that they might become very frequent in the future**. It's a list that has no answers yet and a list that we want to grow openly so we can start anticipating future issues that might emerge in the present of the future and that future designers and companies might have to answer.
 
+Read and contribute to ffffffffaq on:
+- 🔌APPLIANCES
+- 📷  CAMERAS
+- 🚗 CARS
+- 🏠 HOME
+- 🏥 HOSPITAL
+- 🤖 ROBOTS
+- more sections to come...
+
 This is a project by [automato.farm](http://automato.farm/) inspired by the amazing text from Rich Gold's [How smart does your bed have to be before you are afraid to go to sleep at night?](http://90.146.8.18/en/archives/festival_archive/festival_catalogs/festival_artikel.asp?iProjectID=8689).
 
 ### Contribute
