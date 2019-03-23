@@ -17,7 +17,7 @@ This is a project by [automato.farm](http://automato.farm/) inspired by the amaz
 
 ### Contribute
 
-You can contribute by adding your own questions and doubts about future things on the [ffffffffaq Issues page](https://github.com/automato-build/ffffffffaq). You can add questions, use them for a new project or also anwer them if you want, we will put them in little by little by hand, as of course we don't trust automated systems to do that.
+You can contribute by adding your own questions and doubts about future things on the [ffffffffaq Issues page](https://github.com/automato-build/ffffffffaq/issues). You can add questions, use them for a new project or also anwer them if you want, we will put them in little by little by hand, as of course we don't trust automated systems to do that.
 
 Here is how to do it:
 - Create an new issue
