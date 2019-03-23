@@ -10,4 +10,4 @@ This is a project by [automato.farm](http://automato.farm/) inspired by the amaz
 You can contribute by adding an issue to one of the **ffffffffaq** pages on the [Github Repo](https://github.com/automato-build/ffffffffaq). You can add questions, use them for a new project or also anwer them if you want.
 
 
-If you wanna know more [contact us](mailto:hi@automato.farm)
+If you wanna know more or actually want to know less [contact us](mailto:hi@automato.farm).
