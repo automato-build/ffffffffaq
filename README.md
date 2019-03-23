@@ -1,37 +1,11 @@
 ## Welcome to Future Frequently Asked Questions
 
-This is an open an growing list of questions that might emerge in the daily life in the near future. It's a list that has no answers yet, but it's a present list of future issues that might emerge in the present of the future and that future designers and companies might have to answer. [editor on GitHub](https://github.com/automato-build/ffffffffaq/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is an open an growing list of **future frequently asked questions, questions that are not asked yet, but that they might become very frequent in the future**. It's a list that has no answers yet and a list that we want to grow openly so we can start anticipating future issues that might emerge in the present of the future and that future designers and companies might have to answer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contribute
 
-### Markdown
+You can contribute by adding an issue to one of the ffffffffaq pages on the [Github Repo](https://github.com/automato-build/ffffffffaq). You can add questions, use them for a new project or also anwer them if you want.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a project by [automato.farm](http://automato.farm/) inspired by the amazing text from Rich Gold [How smart does your bed have to be, before you are afraid to go to sleep at night?](http://90.146.8.18/en/archives/festival_archive/festival_catalogs/festival_artikel.asp?iProjectID=8689.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/automato-build/ffffffffaq/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you wanna know more [contact us](mailto:hi@automato.farm)

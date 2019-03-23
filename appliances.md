@@ -1,6 +1,6 @@
 # 🔌APPLIANCES
 
-- What is the percentange of smart things for a home to be considered Smart?
+- If a « smart » coffee machine knows about my heart problems,will it still give me a coffee?
 - Is a dumb home full of smart things a smart home?
 - Do Smart homes makes my life easier?
 - If I get bored of the smartness of my smart home, can I actually switch it off?
