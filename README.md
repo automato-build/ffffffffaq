@@ -10,9 +10,10 @@ This is a project by [automato.farm](http://automato.farm/) inspired by the amaz
 You can contribute by adding your own questions and doubts about future things on the [ffffffffaq Issues page](https://github.com/automato-build/ffffffffaq). You can add questions, use them for a new project or also anwer them if you want, we will put them in little by little by hand, as of course we don't trust automated systems to do that.
 
 Here is how to do it:
-- Create an issue with #category of object
-- Write your question/s
-- Enjoy the bitter pleasure of questioning the future
+- Create an new issue
+- Put as a title an existing category of issues (i.e. #home, #cars) of add you own
+- Write your question/s in the comment
+- Enjoy the bitter sweet pleasure of questioning the future
 
 ### Contact
 
