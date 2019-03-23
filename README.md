@@ -11,6 +11,7 @@ Read and contribute to ffffffffaq on:
 - [🏠 HOME](http://www.ffffffffaq.com/home.html)
 - [🏥 HOSPITAL](http://www.ffffffffaq.com/hospital.html)
 - [🤖 ROBOTS](http://www.ffffffffaq.com/robots.html)
+- [👓 VR & AR](http://www.ffffffffaq.com/vr+ar.html)
 - more sections to come...
 
 This is a project by [automato.farm](http://automato.farm/) inspired by the amazing text from Rich Gold's [How smart does your bed have to be before you are afraid to go to sleep at night?](http://90.146.8.18/en/archives/festival_archive/festival_catalogs/festival_artikel.asp?iProjectID=8689).
