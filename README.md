@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Future Frequently Asked Questions
 
-You can use the [editor on GitHub](https://github.com/automato-build/ffffffffaq/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is an open an growing list of questions that might emerge in the daily life in the near future. It's a list that has no answers yet, but it's a present list of future issues that might emerge in the present of the future and that future designers and companies might have to answer. [editor on GitHub](https://github.com/automato-build/ffffffffaq/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
