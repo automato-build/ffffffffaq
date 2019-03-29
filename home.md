@@ -14,4 +14,3 @@
 - Would a smart home stop me from making dumb things?
 - Is a big home smarter than a small home? (by MickJongeling)
 - When I buy a used smart home, do I have to retrain it? (by larrst)
--
