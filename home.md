@@ -12,3 +12,6 @@
 - Can I decide if my house should learn or teach me things?
 - If a crime happens in my smart home, would my home vouch for me if police start questioning it?
 - Would a smart home stop me from making dumb things?
+- Is a big home smarter than a small home? (by MickJongeling)
+- When I buy a used smart home, do I have to retrain it? (by larrst)
+-
