@@ -10,3 +10,6 @@
 - What if my robot gets lost?
 - What about my roomba is he smart enough to be considered a robot?
 - Why are only humanoid robots the one that have issues with ?
+- Should robots be allowed to join a union? (by Klingebeil)
+- Is a union allowed to include non-sentient robots as members? (by Klingebeil)
+- Are robots allowed to strike? (by Klingebeil)
