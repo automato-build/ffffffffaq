@@ -22,7 +22,7 @@ You can contribute by adding your own questions and doubts about future things o
 
 Here is how to do it:
 - Create an new issue
-- Put as a title an existing category of issues (i.e. #home, #cars) of add you own
+- Put as a title an existing category of issues (i.e. #home, #cars) or add your own
 - Write your question/s in the comment
 - Enjoy the bitter sweet pleasure of questioning the future
 
