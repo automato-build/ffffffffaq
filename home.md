@@ -13,4 +13,6 @@
 - If a crime happens in my smart home, would my home vouch for me if police start questioning it?
 - Would a smart home stop me from making dumb things?
 - Is a big home smarter than a small home? (by MickJongeling)
-- When I buy a used smart home, do I have to retrain it? (by larrst)
+- When I buy a used smart home, do I have to retrain it? (by [larsst](https://github.com/larsst))
+- Is there an AirBNB for SmartHomes only? (by [ideospire](https://github.com/ideospire))
+- I'm moving to this new neighbourhood and they are actively non-Smart about their homes - how can I try and change their minds? I can't operate without a smart Cam at my door. (by [ideospire](https://github.com/ideospire))
