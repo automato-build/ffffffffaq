@@ -1,6 +1,6 @@
 # 🚗 CARS
 
-- What if i don't trust my self driving car to go to ther right place?
+- What if I don't trust my self driving car to go to ther right place?
 - If my car makes a wrong turn, what can I do?
 - If the car doesn’t have a steering wheel to control it, would I trust it more or less?
 - Do I need to pay for an extra steering will just in case?
@@ -12,16 +12,16 @@
 - Would a car trained in China act the same way when it crosses border?
 - How would my Italian car decide to act in Germany?
 - Are the distance of automatic parking the same all around the world?
-- Would an italian and a german car have to discuss about the right distance to park one from an other?
+- Would an Italian and a German car have to discuss about the right distance to park one from an other?
 - Who decides then what is a good parking? The Germans or the Italians?
 - How do you insult a self driving car if it doesn't let you pass?
 - If no one is driving who will you blame for an accident?
-- How would a policemen stop a self driving car?
+- How would a police officer stop a self driving car?
 - Is there a specific stop sign for normal and self driving cars?
-- If a policemen stops you in self driving car, who will it fine?
-- How would you show the policement that it was the car's fault?
+- If a police officer stops you in a self driving car, who will it fine?
+- How would you show the police officer that it was the car's fault?
 - What is the best way for me to protect my car against hackers?
-- If my car is going to collide with a person of interest (ie: president of my country, movie star,
+- If my car is going to collide with a person of interest (i.e.: president of my country, movie star,
 etc.), will the algorithm choose that person over me?
 - I’m planning to do a roadtrip from Europe to China with my autonomous vehicle this summer,
 will my European car still be able to communicate with the Chinese infrastructure once I’m
